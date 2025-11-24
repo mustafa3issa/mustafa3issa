@@ -54,6 +54,25 @@
 
 ###
 
+<h3 align="left">💼 Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/mustafa3issa/DigitalNotesManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mustafa3issa&repo=DigitalNotesManager&theme=tokyonight" />
+  </a>
+  
+  <a href="https://github.com/mustafa3issa/SchoolManagementSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mustafa3issa&repo=SchoolManagementSystem&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/HosamMosstfa/Project-JS-ITI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HosamMosstfa&repo=Project-JS-ITI&theme=tokyonight" />
+  </a>
+</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mustafa3issa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa3issa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
