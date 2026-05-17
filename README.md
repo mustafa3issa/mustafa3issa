@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a .NET & Angular full-stack developer passionate about building scalable web systems,<br>clean architectures, and real-world solutions.</p>
+<p align="left">I'm a .NET & Angular full stack developer passionate about building scalable web systems,<br>clean architectures, and real world solutions.</p>
 
 ###
 
@@ -52,18 +52,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
 </div>
 
-###
+### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa3issa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![Mustafa Issa's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mustafa3issa&theme=radical&hide_border=true)
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustafa3issa/mustafa3issa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mustafa3issa/mustafa3issa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mustafa3issa/mustafa3issa/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mustafa3issa&layout=compact&theme=radical&hide_border=true)
